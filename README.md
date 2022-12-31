@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DiyaGandhi16
-- 👀 I’m interested in any colaborative coding projects in javascript 
+- 👀 I’m interested in any colaborative coding projects in Java
 - 🌱 I’m currently in btec cse 1st yr 
 - 💞️ Looking for projects i can contribute to and grow together with
 - 📫 Email ID - diyagandhisb@gmail.com
